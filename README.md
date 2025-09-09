@@ -1,4 +1,4 @@
-# Redis Clone – High-performance In-memory Key-Value Store (Go)
+# Redis Clone (Go)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Go-00ADD8?logo=go" alt="Go">
